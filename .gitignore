@@ -1,0 +1,7 @@
+.prettierrc.json
+.eslintrc.json
+src/node_modules
+src/package-lock.json
+files
+.env
+*.json
