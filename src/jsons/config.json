@@ -1,0 +1,9 @@
+{
+    "idBot": "825002232675434506",
+    "idTestServer": "846752749555286027",
+    "idOwner": "658234646932357140",
+    "mongooseConnectionString": "",
+    "caricaGlobaleSlash": false,
+    "colorembed": "#874CC5",
+    "messaggioPing": "{}・Ciao umano, per vedere la lista completa dei miei comandi utilizza **/aiuto**."
+}
